@@ -1,6 +1,6 @@
 # Iara Pereira
 
-Desenvolvedora e freelancer de soluções digitais — uso IA como ferramenta de trabalho, não como mágica.
+Desenvolvedora e fundadora da IAra Soluções Digitais, onde usamos IA como ferramenta de trabalho, não como mágica.
 
 Trabalho com Python, SQL e JavaScript no dia a dia, e nos últimos tempos tenho combinado isso com automações e IA generativa para entregar projetos mais rápido e com resultado real: landing pages, campanhas de mídia social e aplicações web para negócios.
 
