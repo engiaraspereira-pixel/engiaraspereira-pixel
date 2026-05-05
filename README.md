@@ -10,11 +10,11 @@ Estou construindo meu portfólio de clientes agora. Se você chegou aqui, provav
 
 ## O que eu entrego
 
-**Landing pages**  página focada em conversão, com copy, código e deploy inclusos.
+**Landing pages** - página focada em conversão, com copy, código e deploy inclusos.
 
-**Campanhas de mídia social**  estratégia, textos e criativos para Facebook e Instagram Ads.
+**Campanhas de mídia social** - estratégia, textos e criativos para Facebook e Instagram Ads.
 
-**Aplicações web**  sistemas e ferramentas sob medida para o seu negócio.
+**Aplicações web** - sistemas e ferramentas sob medida para o seu negócio.
 
 ---
 
