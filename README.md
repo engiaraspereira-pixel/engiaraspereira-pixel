@@ -39,7 +39,7 @@ Aplicação de gestão e planejamento de qualidade de processos. Feita em JavaSc
 
 | Projeto | Segmento | Entregável |
 |---|---|---|
-| Cliente 01 — em andamento | Jurídico | Landing page + campanha Meta Ads |
+| Cliente 01 - em andamento | Jurídico | Landing page + campanha Meta Ads |
 
 ---
 
