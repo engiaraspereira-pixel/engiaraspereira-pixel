@@ -2,7 +2,7 @@
 
 Desenvolvedora e fundadora da IAra Soluções Digitais, onde usamos IA como ferramenta de trabalho, não como mágica.
 
-Trabalho com Python, SQL e JavaScript no dia a dia, e nos últimos tempos tenho combinado isso com automações e IA generativa para entregar projetos mais rápido e com resultado real: landing pages, campanhas de mídia social e aplicações web para negócios.
+Trabalhamos com Python, SQL e JavaScript no dia a dia, e nos últimos tempos tenho combinado isso com automações e IA generativa para entregar projetos mais rápido e com resultado real: landing pages, campanhas de mídia social e aplicações web para negócios.
 
 Estou construindo meu portfólio de clientes agora. Se você chegou aqui, provavelmente quer ver o que eu faço, dá uma olhada nos repositórios abaixo.
 
@@ -10,11 +10,11 @@ Estou construindo meu portfólio de clientes agora. Se você chegou aqui, provav
 
 ## O que eu entrego
 
-**Landing pages** — página focada em conversão, com copy, código e deploy inclusos.
+**Landing pages**  página focada em conversão, com copy, código e deploy inclusos.
 
-**Campanhas de mídia social** — estratégia, textos e criativos para Facebook e Instagram Ads.
+**Campanhas de mídia social**  estratégia, textos e criativos para Facebook e Instagram Ads.
 
-**Aplicações web** — sistemas e ferramentas sob medida para o seu negócio.
+**Aplicações web**  sistemas e ferramentas sob medida para o seu negócio.
 
 ---
 
